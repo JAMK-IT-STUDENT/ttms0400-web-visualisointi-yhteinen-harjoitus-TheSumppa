@@ -18,3 +18,35 @@ nav, header, main, section, article
     padding: 15px;
     text-align: center;
 }
+
+nav
+{
+    background-color: #5995DA;
+}
+header
+{
+    background-color: #B2D6FF;
+}
+main
+{
+    background-color: #92b3d0;
+}
+section
+{
+    background-color: #D6E9FE;
+}
+
+/* Background colors */
+
+.bg-yellow
+{
+    background-color: #d9b068;
+}
+.bg-red
+{
+    background-color: #935157;
+}
+.bg-purple
+{
+    background-color: #9779DD;
+}
